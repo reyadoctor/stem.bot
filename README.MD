@@ -90,7 +90,7 @@ STEM Bot is a revolutionary Discord bot designed to enhance your learning experi
 
 ### Built With
 
-The Stem bot was built with applications such as github and replit. We used python to create our project,
+The Stem bot was built with applications such as github and replit. We used python to create our project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,10 +128,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
-
+* [discord](discord.com)
+* [replit](replit.com)
+* [python]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
